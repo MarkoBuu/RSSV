@@ -1,0 +1,16 @@
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.Form1.resources
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.csproj.GenerateResource.cache
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.AssemblyInfoInputs.cache
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.AssemblyInfo.cs
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.csproj.CoreCompileInputs.cache
+D:\lv1\lv1\bin\Debug\net7.0-windows\lv1.exe
+D:\lv1\lv1\bin\Debug\net7.0-windows\lv1.deps.json
+D:\lv1\lv1\bin\Debug\net7.0-windows\lv1.runtimeconfig.json
+D:\lv1\lv1\bin\Debug\net7.0-windows\lv1.dll
+D:\lv1\lv1\bin\Debug\net7.0-windows\lv1.pdb
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.dll
+D:\lv1\lv1\obj\Debug\net7.0-windows\refint\lv1.dll
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.pdb
+D:\lv1\lv1\obj\Debug\net7.0-windows\lv1.genruntimeconfig.cache
+D:\lv1\lv1\obj\Debug\net7.0-windows\ref\lv1.dll
